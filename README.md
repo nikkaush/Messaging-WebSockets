@@ -21,9 +21,3 @@ Tools
 - npm init
 - npm install express --save
 - npm install nodemon --save-dev
-
-
-
-References
-The Net Ninja
-https://www.youtube.com/watch?v=vQjiN8Qgs3c&ab_channel=TheNetNinja
